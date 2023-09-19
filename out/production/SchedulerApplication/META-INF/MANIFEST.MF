@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: Main.Main
+Class-Path: javafx-swt.jar javafx.web.jar javafx.base.jar javafx.fxml.ja
+ r javafx.media.jar javafx.swing.jar javafx.controls.jar javafx.graphics
+ .jar testng-7.1.0.jar jcommander-1.72.jar guice-4.1.0-no_aop.jar javax.
+ inject-1.jar aopalliance-1.0.jar guava-19.0.jar snakeyaml-1.21.jar mysq
+ l-connector-java-8.0.26.jar junit-jupiter-5.8.1.jar junit-jupiter-api-5
+ .8.1.jar opentest4j-1.2.0.jar junit-platform-commons-1.8.1.jar apiguard
+ ian-api-1.1.2.jar junit-jupiter-params-5.8.1.jar junit-jupiter-engine-5
+ .8.1.jar junit-platform-engine-1.8.1.jar
+
