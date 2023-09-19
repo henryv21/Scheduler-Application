@@ -1,6 +1,6 @@
 # Scheduling Application - C195 Performance Evaluation 
 - Author: Henry Ventura
-- Email:  hventu5@wgu.edu
+- Email:  h.ventura2121@gmail.com
 - Version: 1.2
 - Date: 01/10/2022
 
